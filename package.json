@@ -1,0 +1,30 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "Personal Website for Michael Lah",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelLah/personal_website.git"
+  },
+  "author": "Michael Lah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelLah/personal_website/issues"
+  },
+  "homepage": "https://github.com/MichaelLah/personal_website#readme",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
