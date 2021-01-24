@@ -1,0 +1,23 @@
+top panel:
+
+home
+photography
+github
+contat: email
+location? (columbus)
+skills? (REact, Jest/enzyme, rails, ruby, React Native, mysql)
+
+socials:
+
+Linkedin
+github?
+Insta
+
+
+
+==== Other ideas
+Dark mode support
+
+Make a dev twitter account!
+
+https://coolors.co/palettes/popular
