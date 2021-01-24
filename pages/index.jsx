@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Header from "../components/header";
 import Link from "next/link";
 
 const Home = () => {
@@ -8,9 +9,10 @@ const Home = () => {
         <title>Michael Lah</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
+      <body>
+        <Header></Header>
         <h1>Michael Lah</h1>
-      </main>
+      </body>
     </>
   );
 };
